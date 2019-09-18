@@ -1,0 +1,1 @@
+select * from movies where movies_id = ($1)
